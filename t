@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+#
+# Copyright (C) Stanislaw Adaszewski, 2018
+# https://adared.ch
+#
+
 from argparse import ArgumentParser
 import json
 import time
