@@ -27,7 +27,8 @@ Syntax:
 - Remove a task completely (its ID will remain reserved): ./t -x 1
 
 Features:
-- Color output
+- Color output (green - done, red - pending, magenta - cancelled)
+- Output date of last transition, ID and description
 
 Sample output:
 
