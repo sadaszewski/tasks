@@ -28,3 +28,7 @@ Syntax:
 
 Features:
 - Color output
+
+Sample output:
+
+![Sample output](https://github.com/sadaszewski/tasks/raw/master/Screen%20Shot%202018-06-09%20at%2013.21.44.png)
